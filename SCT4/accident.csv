@@ -1,0 +1,11 @@
+id,date,time,location,accident_type,vehicles_involved,fatalities,injuries,weather_conditions,road_conditions
+1,15-01-2023,08:23,Main St & 5th Ave,rear-end collision,2,0,2,clear,dry
+2,18-01-2023,17:45,Highway 27 NB,side-swipe,3,1,4,rain,wet
+3,22-01-2023,12:10,Oak St & Pine Blvd,T-bone,2,0,3,foggy,dry
+4,05-02-2023,22:30,Interstate 95 exit 42,rollover,1,2,1,clear,dry
+5,14-02-2023,07:15,Maple Ave & Elm St,head-on collision,2,1,2,snow,icy
+6,03-03-2023,15:40,City Center roundabout,multi-vehicle,4,0,6,rain,wet
+7,12-03-2023,09:05,River Road mile marker 12,single vehicle,1,0,1,clear,dry
+8,01-04-2023,18:20,3rd St & Commerce Ave,pedestrian collision,1,1,0,clear,dry
+9,18-04-2023,23:15,Highway 101 SB near exit 88,hit fixed object,1,1,0,rain,wet
+10,09-05-2023,14:50,Park Blvd & Garden Lane,angle collision,2,0,2,cloudy,dry
